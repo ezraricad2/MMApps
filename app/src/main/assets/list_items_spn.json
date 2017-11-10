@@ -1,0 +1,18 @@
+[
+	{
+		"SpnId":"1",
+		"SPNCode": "SPN001",
+		"NamaVendor": "PT Indonesia Supplier Mulia",
+		"CodePo": "026/1401/VI/2017",
+		"Qty": "0",
+		"Other": ""
+	},
+	{
+		"SpnId":"2",
+		"SPNCode": "SPN002",
+		"NamaVendor": "PT Indonesia Supplier Mulia",
+		"CodePo": "027/1401/VI/2017",
+		"Qty": "0",
+		"Other": ""
+	}
+]

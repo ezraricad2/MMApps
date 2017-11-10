@@ -1,0 +1,42 @@
+[
+	{
+		"Id":"1",
+		"Type":"DataA",
+		"WorkName": "1. Persiapan",
+		"WorkInstruction": "Shop Drawing approval tersedia",
+		"Imm": "true",
+		"FileUploadUrl": "https://cdn-images-1.medium.com/max/1600/1*cFHFZx7CbGbGBXYKHuQqEw.png"
+	},
+	{
+		"Id":"2",
+		"Type":"DataA",
+		"WorkName": "1. Persiapan",
+		"WorkInstruction": "Umur acian min. 14 hari, atau kelembaban max 15% dengan ",
+		"Imm": "true",
+		"FileUploadUrl": "https://cdn-images-1.medium.com/max/1600/1*cFHFZx7CbGbGBXYKHuQqEw.png"
+	},
+	{
+		"Id":"3",
+		"Type":"DataA",
+		"WorkName": "1. Persiapan",
+		"WorkInstruction": "Roll, kuas, bak cat & tangga tersedia",
+		"Imm": "false",
+		"FileUploadUrl": ""
+	},
+	{
+		"Id":"1",
+		"Type":"DataB",
+		"WorkName": "2. Dinding",
+		"WorkInstruction": "Dahulukan area sempit & tepi dinding",
+		"Imm": "false",
+		"FileUploadUrl": "https://cdn-images-1.medium.com/max/1600/1*cFHFZx7CbGbGBXYKHuQqEw.png"
+	},
+	{
+		"Id":"2",
+		"Type":"DataB",
+		"WorkName": "2. Dinding",
+		"WorkInstruction": "Celah & retak rambut dinding LUAR tertutup skim coat",
+		"Imm": "false",
+		"FileUploadUrl": ""
+	}
+]

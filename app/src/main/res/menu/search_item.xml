@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.totalbp.tqamanagement.ProjectActivity" >
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:menuCategory="secondary"
+        android:orderInCategory="200"
+        android:title="@string/action_filter"
+        app:showAsAction="collapseActionView|always"/>
+
+</menu>

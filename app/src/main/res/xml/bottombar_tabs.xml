@@ -1,0 +1,16 @@
+<tabs>
+    <tab
+        IDDailyLog="@+id/action_filter"
+        id="@+id/action_filter"
+        icon="@drawable/ic_filter_list_white_24dp"
+        title="@string/action_filter"/>
+    <tab
+        IDDailyLog="@+id/action_sort"
+        id="@+id/action_sort"
+        icon="@drawable/ic_swap_vert_white_24dp"
+        title="@string/action_sort"/>
+    <!--<tab-->
+        <!--IDDailyLog="@+id/action_grid"-->
+        <!--icon="@drawable/ic_grid_on_white_24dp"-->
+        <!--title="@string/action_grid"/>-->
+</tabs>

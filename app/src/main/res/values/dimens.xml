@@ -1,0 +1,46 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="nav_header_height_header">100dp</dimen>
+    <dimen name="common_0_dp">0dp</dimen>
+    <dimen name="common_10_dp">10dp</dimen>
+    <dimen name="common_15_dp">15dp</dimen>
+    <dimen name="common_1_dp">1dp</dimen>
+    <dimen name="common_20_dp">20dp</dimen>
+    <dimen name="common_25_dp">25dp</dimen>
+    <dimen name="common_2_dp">2dp</dimen>
+    <dimen name="common_30_dp">30dp</dimen>
+    <dimen name="common_3_dp">3dp</dimen>
+    <dimen name="common_40_dp">40dp</dimen>
+    <dimen name="common_4_dp">4dp</dimen>
+    <dimen name="common_50_dp">50dp</dimen>
+    <dimen name="common_5_dp">5dp</dimen>
+    <dimen name="common_60_dp">60dp</dimen>
+    <dimen name="common_70_dp">70dp</dimen>
+    <dimen name="common_100_dp">100dp</dimen>
+
+    <dimen name="frame_padding">5dp</dimen>
+    <dimen name="inner_frame_padding">10dp</dimen>
+    <dimen name="activity_login_vertical_margin">56dp</dimen>
+    <dimen name="button_text_size">15sp</dimen>
+    <dimen name="button_size">125dp</dimen>
+    <dimen name="project_dimen">5dp</dimen>
+    <dimen name="input_label_vertical_spacing">8dp</dimen>
+    <dimen name="input_label_horizontal_spacing">4dp</dimen>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="item_width">200dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+    <dimen name="login_button_top">25dip</dimen>
+    <dimen name="login_button_width">292dip</dimen>
+    <dimen name="login_button_height">41.5dip</dimen>
+
+    <dimen name="login_button_foot_size">16sp</dimen>
+</resources>

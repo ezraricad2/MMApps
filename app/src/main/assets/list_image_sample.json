@@ -1,0 +1,118 @@
+[{
+    "name": "Regatta",
+    "url": {
+        "small": "http://www.totalbp.com/images/feature/3.jpg",
+        "medium": "http://www.totalbp.com/images/feature/3.jpg",
+        "large": "http://www.totalbp.com/images/feature/3.jpg"
+    },
+    "timestamp": "February 12, 2016"
+},
+    {
+        "name": "The Chedi Sakala Bali",
+        "url": {
+            "small": "http://www.totalbp.com/images/feature/1.jpg",
+            "medium": "http://www.totalbp.com/images/feature/1.jpg",
+            "large": "http://www.totalbp.com/images/feature/1.jpg"
+        },
+        "timestamp": "March 25, 2016"
+    },
+    {
+        "name": "Hermitage Jakarta",
+        "url": {
+            "small": "http://www.totalbp.com/images/feature/20141013083019.jpg",
+            "medium": "http://www.totalbp.com/images/feature/20141013083019.jpg",
+            "large": "http://www.totalbp.com/images/feature/20141013083019.jpg"
+        },
+        "timestamp": "May 6, 2016"
+    },
+    {
+        "name": "Central Park Jakarta",
+        "url": {
+            "small": "http://www.totalbp.com/images/feature/20130617035419.jpg",
+            "medium": "http://www.totalbp.com/images/feature/20130617035419.jpg",
+            "large": "http://www.totalbp.com/images/feature/20130617035419.jpg"
+        },
+        "timestamp": "July 29, 2016"
+    },
+    {
+        "name": "Living World Tangerang",
+        "url": {
+            "small": "http://www.totalbp.com/images/feature/4.jpg",
+            "medium": "http://www.totalbp.com/images/feature/4.jpg",
+            "large": "http://www.totalbp.com/images/feature/4.jpg"
+        },
+        "timestamp": "August 5, 2016"
+    },
+    {
+        "name": "Construction of Pondok Indah Residence",
+        "url": {
+            "small": "http://www.totalbp.com/images/project/20141223153110_PIK.jpg",
+            "medium": "http://www.totalbp.com/images/project/20141223153110_PIK.jpg",
+            "large": "http://www.totalbp.com/images/project/20141223153110_PIK.jpg"
+        },
+        "timestamp": "November 4, 2016"
+    },
+    {
+        "name": "Binus Boarding House",
+        "url": {
+            "small": "http://www.totalbp.com//images/project/20_21_40-Binus-Boarding-House.jpg",
+            "medium": "http://www.totalbp.com//images/project/20_21_40-Binus-Boarding-House.jpg",
+            "large": "http://www.totalbp.com//images/project/20_21_40-Binus-Boarding-House.jpg"
+        },
+        "timestamp": "June 17, 2016 "
+    },
+    {
+        "name": "Neo Simatupang",
+        "url": {
+            "small": "http://www.totalbp.com//images/project/20131224014328_neo-simatupang.jpg",
+            "medium": "http://www.totalbp.com//images/project/20131224014328_neo-simatupang.jpg",
+            "large": "http://www.totalbp.com//images/project/20131224014328_neo-simatupang.jpg"
+        },
+        "timestamp": "June 17, 2016 "
+    },
+    {
+        "name": "Millenium Village",
+        "url": {
+            "small": "http://www.totalbp.com//images/project/20161215112402_Millennium_Village-EF.bmp",
+            "medium": "http://www.totalbp.com//images/project/20161215112402_Millennium_Village-EF.bmp",
+            "large": "http://www.totalbp.com//images/project/20161215112402_Millennium_Village-EF.bmp"
+        },
+        "timestamp": "June 17, 2016 "
+    },
+    {
+        "name": "UMN Campus",
+        "url": {
+            "small": "http://www.totalbp.com//images/project/20151020105907_UMN_KAMPUS.jpg",
+            "medium": "http://www.totalbp.com//images/project/20151020105907_UMN_KAMPUS.jpg",
+            "large": "http://www.totalbp.com//images/project/20151020105907_UMN_KAMPUS.jpg"
+        },
+        "timestamp": "June 17, 2016 "
+    },
+    {
+        "name": "Construction of Grha MM2100 Hospital",
+        "url": {
+            "small": "http://www.totalbp.com//images/project/20161221111203_RS_MM2100.png",
+            "medium": "http://www.totalbp.com//images/project/20161221111203_RS_MM2100.png",
+            "large": "http://www.totalbp.com//images/project/20161221111203_RS_MM2100.png"
+        },
+        "timestamp": "June 17, 2016 "
+    },
+    {
+        "name": "Graha Kedoya Hospital",
+        "url": {
+            "small": "http://www.totalbp.com//images/project/21_37_38-rs-grha-kedoya.jpg",
+            "medium": "http://www.totalbp.com//images/project/21_37_38-rs-grha-kedoya.jpg",
+            "large": "http://www.totalbp.com//images/project/21_37_38-rs-grha-kedoya.jpg"
+        },
+        "timestamp": "June 17, 2016 "
+    },
+    {
+        "name": "Construction of New West Factory",
+        "url": {
+            "small": "http://www.totalbp.com//images/project/20131224093950_total-indofood.jpg",
+            "medium": "http://www.totalbp.com//images/project/20131224093950_total-indofood.jpg",
+            "large": "http://www.totalbp.com//images/project/20131224093950_total-indofood.jpg"
+        },
+        "timestamp": "June 17, 2016 "
+    }
+]

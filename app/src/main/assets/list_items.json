@@ -1,0 +1,26 @@
+[
+	{
+		"ItemId":"1",
+		"ItemName": "Besi Liar",
+		"ItemBrand": "026/1402/VI/2017",
+		"VolumeBefore": "100",
+		"VolumeInput": "-",
+		"Unit": "Btg"
+	},
+	{
+		"ItemId":"2",
+		"ItemName": "Batu Kali",
+		"ItemBrand": "026/1402/VI/2017",
+		"VolumeBefore": "10",
+		"VolumeInput": "-",
+		"Unit": "Bh"
+	},
+	{
+		"ItemId":"3",
+		"ItemName": "Bata Merah",
+		"ItemBrand": "027/1402/VI/2017",
+		"VolumeBefore": "30",
+		"VolumeInput": "-",
+		"Unit": "Bh"
+	}
+]

@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Material Management</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_one">Hello blank fragment ONE</string>
+    <string name="hello_blank_fragment_two">Hello blank fragment TWO</string>
+
+
+    <!-- NEW DECLARATION -->
+    <string name="tabnewspn">New SPN</string>
+    <string name="taballspn">All SPN</string>
+    <string name="tabupcomingorders">Upcoming Orders</string>
+
+    <!-- BOTTOM NAVIGATION MENU -->
+    <string name="bottomnav_filter">Filter</string>
+    <string name="bottomnav_urutkan">Sort</string>
+    <string name="bottomnav_grid">Grid</string>
+    <string name="bottomnav_cari">Search</string>
+
+    <string name="cis_title">Construction Integrated System</string>
+    <string name="account_text_title">Sign in to your account</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_nik">NIK</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_item">Item</string>
+    <string name="action_penilaian">Penilaian</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is required</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_timeout">Timeout, Cannot connect to server</string>
+    <string name="error_save">Wrong parameter to server</string>
+    <string name="error_no_connection">Your are offline, please turn on data connection</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_login">The user name or password is incorrect</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_choose_project">Choose Project</string>
+    <string name="btn_detail_item">DETAIL</string>
+    <string name="btn_order_item">ORDER</string>
+
+    <!-- Strings related to order -->
+    <string name="new_order_all_items">All Items</string>
+    <string name="new_order_previously_order_all_items">Previously Ordered Items</string>
+    <string name="new_order_favorite_items">Favorite Items</string>
+    <string name="more_items">More</string>
+    <string name="select_project_hint">PLEASE SELECT PROJECT</string>
+
+    <string name="action_filter">Filter</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_grid">Grid</string>
+    <string name="action_search">Search</string>
+    <string name="delete_spr">Delete</string>
+    <string name="edit_spr">Edit</string>
+    <string name="loading">Loading...</string>
+    <string name="action_sync">Sync</string>
+
+    <string name="today">Hari ini</string>
+    <string name="tomorrow1">Besok</string>
+    <string name="tomorrow2">Lusa</string>
+
+    <string name="title_pekerja">Pekerja</string>
+    <string name="retake_photo">Retake Photo</string>
+    <string name="add_notes">Add Notes Here</string>
+
+
+
+
+
+    <string name="warning_blank_fragment">You have not Select the Project</string>
+    <string name="advice_blank_fragment">To continue using the Apps, Please select the Project from the toolbar title!</string>
+</resources>

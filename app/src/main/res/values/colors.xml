@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#256cd7</color>
+    <color name="colorPrimaryDark">#1d58b1</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+
+    <color name="bg_login">#5f87c7</color>
+    <color name="border">#6b9be9</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#979797</color>
+    <color name="transparent">#c0ffffff</color>
+    <color name="transparent_black">#a8000000</color>
+    <color name="black_grey">#383838</color>
+    <color name="green">#029100</color>
+    <color name="yellow">#ffae18</color>
+    <color name="numberAlert">#163564</color>
+    <color name="grayText">#9f9f9f</color>
+    <color name="gray">#bebebe</color>
+    <color name="lightgray">#e7e7e7</color>
+    <color name="lightgrayfront">#f9f9f9</color>
+
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="status_online">#00FF00</color>
+    <color name="btn_login_bg">#1E88CD</color>
+    <color name="item_header_bg">#771e88cd</color>
+    <color name="lbl_name">#333333</color>
+    <color name="lighter_gray">#5bc4c4c4</color>
+    <color name="icon_gray">#d6747373</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="item_header_text">#37393b</color>
+    <color name="bg_reject">#e42b22</color>
+    <!--OTHER RESOURCES-->
+
+
+    <color name="white_custom">#ebebeb</color>
+    <color name="province_line_border">#C7C7C7</color>
+    <color name="app_background">#f2f2f2</color>
+    <color name="app_line_background">#DDDDDA</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="white_custom2">#FAFAFA</color>
+    <color name="text_black">#333333</color>
+    <color name="text_gray">#999999</color>
+    <color name="cashier_online">#00a304</color>
+    <color name="cashier_offline">#999999</color>
+    <color name="cashier_not_active">#fa4242</color>
+    <color name="bg_page">#ffebebeb</color>
+    <color name="titlebar_background">#262626</color>
+    <color name="login_background">#EEEEEC</color>
+    <color name="login_input_foot_color">#5b5b5b</color>
+    <color name="login_forget_password_foot_color">#ACACAC</color>
+    <color name="register_verification_foot_color">#636161</color>
+    <color name="weixin_point_background">#56CC31</color>
+    <!-- 灰黑色 -->
+    <color name="analysis_total_area">#252828</color>
+    <color name="income_time_area">#ffffff</color>
+    <color name="income_time_font">#BDBDBD</color>
+    <color name="income_transaction_category_font">#505050</color>
+    <color name="income_transaction_category_num_font">#969696</color>
+    <color name="income_list_time_font">#A8ACB0</color>
+    <color name="income_list_detail_number_font">#777777</color>
+    <color name="income_list_detail_number_value_font">#272727</color>
+    <!-- 鲜蓝色 -->
+    <color name="analysis_total_area_blue">#343f51</color>
+    <color name="analysis_text_name_gray">#969696</color>
+    <color name="analysis_text_money_gray">#5e7b98</color>
+    <color name="analysis_line_gray">#e6e6e6</color>
+    <color name="fragment_pay_bg_color">#44b3ff</color>
+    <color name="bottom_bar_blue">#0e83d4</color>
+    <color name="bottom_bar_black">#333333</color>
+    <color name="analysis_type_area">#1e1e1e</color>
+    <!-- 选择支付方式弹出框背景颜色 -->
+    <color name="theme_paymethod_dialog_background">#50ffffff</color>
+
+    <!-- 首页收款按钮 -->
+    <color name="cashpay_button_color">#0ea9ff</color>
+    <color name="cashpay_button_select_color">#1495dc</color>
+    <color name="fasterpay_button_color">#e5883d</color>
+    <color name="fasterpay_button_select_color">#c36f2b</color>
+
+    <!-- 标题导航 -->
+    <color name="title_bg_press">#ff262626</color>
+
+    <!-- 左侧菜单栏背景 -->
+    <color name="common_menu_background">#F8F8F3</color>
+    <color name="menu_bg_press">#cecece</color>
+    <color name="paymethod_item_bg_press">#F8F8F8</color>
+
+    <!-- 收银台背景 -->
+    <color name="gathering_backgound">#ff262626</color>
+    <color name="gathering_alipay_money_font_color">#f13737</color>
+    <color name="gathering_alipay_notify_text_color">#acacac</color>
+
+    <!-- 支付方式 -->
+    <color name="chose_pay_weixin_text_color">#1C941A</color>
+    <color name="chose_pay_alipay_text_color">#F57B18</color>
+    <color name="chose_pay_item_text_color">#949494</color>
+
+    <!-- 通用菜单item -->
+    <color name="common_item_desc_color">#919191</color>
+
+    <!-- 提示文字字体颜色 -->
+    <color name="common_input_hint_text_color">#DADADA</color>
+
+    <!-- 收款记录页面总计栏背景颜色 -->
+    <color name="gatheringrecord_rental_bg_color">#f8f8f8</color>
+    <color name="gatheringrecord_item_bg_color">#df4545</color>
+    <!-- xlistview -->
+    <color name="transparent2">#00000000</color>
+    <color name="background">#F7F4F0</color>
+    <color name="title_color">#333333</color>
+    <color name="loading_text_color">#ff717171</color>
+
+    <!-- 二维码扫描 -->
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#AA000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="paymethod_membercard_color">#FF8E8E</color>
+    <color name="paymethod_alipay_color">#F57B18</color>
+    <color name="paymethod_weixin_color">#2BAB1A</color>
+    <color name="paymethod_baidu_color">#ed5856</color>
+    <color name="paymethod_coupons_color">#66c6f3</color>
+    <color name="paymethod_redpacket_color">#ffae58</color>
+    <color name="paymethod_qq_color">#28b3ec</color>
+    <color name="paymethod_jd_color">#ec1f27</color>
+    <color name="paytype_scan_viewfind_color">#44b3ff</color>
+    <color name="scan_qrcode_color">#eeb340</color>
+
+    <!-- 扫码注册文字边框颜色 -->
+    <color name="scan_register_qrcode_color">#5EABE5</color>
+
+    <!-- 弹出提示框 -->
+    <color name="transparent_background">#50000000</color>
+
+    <!-- 账户明细列表字体颜色 -->
+    <color name="review_font_color">#ff7474</color>
+
+    <!-- 收银方式 -->
+    <color name="paymethod_unavailable_font">#2498f2</color>
+    <color name="paymethod_available_font">#787878</color>
+
+    <!-- 收入报表 -->
+    <color name="income_total_area_color">#ddedf7</color>
+    <color name="paymethod_text_type_color">#797979</color>
+    <color name="date_income_text_color">#32373d</color>
+    <color name="income_amt_color">#0987d4</color>
+    <color name="date_text_color">#595959</color>
+
+    <!-- 自定义选择日期插件颜色 -->
+
+    <color name="calendar_active_month_bg">#fff5f7f9</color>
+    <color name="calendar_bg">#ffffffff</color>
+    <color name="calendar_divider">#ffbababa</color>
+    <color name="calendar_inactive_month_bg">#ffd7d9db</color>
+    <color name="calendar_selected_day_bg">#ff379bff</color>
+    <color name="calendar_highlighted_day_bg">#ccffcc</color>
+    <color name="calendar_selected_range_bg">#ff96caff</color>
+    <color name="calendar_selected_range_bgcustom">#4153c9</color>
+    <color name="calendar_text_inactive">#40778088</color>
+    <color name="calendar_text_active">#ff778088</color>
+    <color name="calendar_text_selected">#ffffffff</color>
+    <color name="calendar_text_unselectable">#7f778088</color>
+    <color name="custom_header_text">#85b100</color>
+    <color name="custom_selected">#A8D324</color>
+    <color name="custom_background">#F0F8DB</color>
+    <color name="custom_background_today">#FF9105</color>
+    <color name="custom_background_disabled">#F0F8DB</color>
+    <color name="custom_text_selected">#FFFFFFFF</color>
+    <color name="custom_text_inactive">#7f778088</color>
+    <color name="titlebar_item_select">#10000000</color>
+
+    <!-- QPos -->
+    <color name="app_background_color">#262626</color>
+    <color name="fragment_find_unfind_text_color">#414141</color>
+    <color name="app_black">#000000</color>
+    <color name="swipe_note_color">#AAAAAA</color>
+    <color name="qpos_pay_status_bg_color">#EEF3F4</color>
+
+    <!-- bluetoothitem color -->
+    <color name="bluetoothitem_text_color">#A0A0A0</color>
+    <color name="camera_dialog_btn_select">#f4f4f4</color>
+    <color name="tv_font_fb3f8f">#0096ee</color>
+    <color name="tv_font_a8a8a8">#a8a8a8</color>
+
+    <drawable name="transparent_background">#00000000</drawable>
+
+    <color name="homepageitem_color">#ffffff</color>
+    <color name="homepageitem_color_select">#f0f0f0</color>
+
+    <!-- 现金收款温馨提示背景色 -->
+    <color name="cashier_pay_note_area_color">#46b1f2</color>
+
+    <!-- 红色 -->
+    <color name="coupon_price_note_area_color">#fa4242</color>
+
+    <!-- 蓝色灰色 -->
+    <color name="account_detail_classification_blue_color">#399bff</color>
+    <color name="account_detail_classification_gray_color">#797979</color>
+    <color name="paymentcode_bg_gray">#f2f2f2</color>
+
+    <!-- 交易标题字体颜色 -->
+    <color name="record_text_color">#0e83d4</color>
+    <!--条目按下的背景色-->
+    <color name="item_press_color">#bbbbbb</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="item_selected_background_color">#C7C7CC</color>
+    <color name="image_placeholder_background_color">#C7C7CC</color>
+
+
+    <!--Jkh Theme Color-->
+    <color name="my_red">#DA4336 </color>
+    <color name="md_red_50">#ffebee</color>
+    <color name="md_red_100">#ffcdd2</color>
+    <color name="md_red_200">#ef9a9a</color>
+    <color name="md_red_300">#e57373</color>
+    <color name="md_red_400">#ef5350</color>
+    <color name="md_red_500">#f44336</color>
+    <color name="md_red_600">#e53935</color>
+    <color name="md_red_700">#d32f2f</color>
+    <color name="md_red_800">#c62828</color>
+    <color name="md_red_900">#b71c1c</color>
+    <color name="md_red_A100">#ff8a80</color>
+    <color name="md_red_A200">#ff5252</color>
+    <color name="md_red_A400">#ff1744</color>
+    <color name="md_red_A700">#d50000</color>
+    <color name="md_red_500_25">#40f44336</color>
+    <color name="md_red_500_50">#80f44336</color>
+    <color name="md_red_500_75">#c0f44336</color>
+    <color name="md_blue_A200">#448aff</color>
+    <color name="md_black_1000_50">#80000000</color>
+    <color name="md_grey_200">#eeeeee</color>
+
+    <color name="md_black_1000_75">#c0000000</color>
+</resources>

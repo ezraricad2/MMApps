@@ -1,0 +1,62 @@
+[
+  {
+    "IDDailyLog":"24",
+    "WorkName":"Plesteran",
+    "KodeSPK":"SPK20170802",
+    "OverallTarget":"192",
+    "OverallDay":"13",
+    "RemainingDay":"10",
+    "DailyTarget":"211",
+    "DailyTargetProgress":"30",
+    "CurrentProgress":"50",
+    "TenagaKerja":"50"
+  },
+  {
+    "IDDailyLog":"25",
+    "WorkName":"Pengecatan Dinding",
+    "KodeSPK":"SPK20170815",
+    "OverallTarget":"722",
+    "OverallDay":"30",
+    "RemainingDay":"5",
+    "DailyTarget":"165",
+    "DailyTargetProgress":"70",
+    "CurrentProgress":"25",
+    "TenagaKerja":"50"
+  },
+  {
+    "IDDailyLog":"26",
+    "WorkName": "Pemasangan Bata",
+    "KodeSPK": "SPK20170823",
+    "OverallTarget":"400",
+    "OverallDay":"10",
+    "RemainingDay":"16",
+    "DailyTarget":"325",
+    "DailyTargetProgress":"80",
+    "CurrentProgress":"40",
+    "TenagaKerja":"60"
+  },
+  {
+    "IDDailyLog":"27",
+    "WorkName": "Angkutan",
+    "KodeSPK": "SPK20170844",
+    "OverallTarget":"500",
+    "OverallDay":"23",
+    "RemainingDay":"18",
+    "DailyTarget":"150",
+    "DailyTargetProgress":"65",
+    "CurrentProgress":"90",
+    "TenagaKerja":"70"
+  },
+  {
+    "IDDailyLog":"28",
+    "WorkName": "Pengecoran Dinding",
+    "KodeSPK": "SPK20170850",
+    "OverallTarget":"300",
+    "OverallDay":"21",
+    "RemainingDay":"5",
+    "DailyTarget":"100",
+    "DailyTargetProgress":"30",
+    "CurrentProgress":"85",
+    "TenagaKerja":"80"
+  }
+]

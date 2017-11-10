@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/custom_bg_ripple"
+    android:orientation="horizontal"
+    android:padding="5dip"
+    android:id="@+id/message_container">
+
+    <TextView
+        android:id="@+id/tvItemName"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/common_5_dp"
+        android:layout_marginTop="@dimen/common_5_dp"
+        android:text="Item Name"
+        android:textColor="@color/icon_gray"
+        android:textSize="14dip"
+        android:textStyle="bold"
+        android:maxLines="3"/>
+
+    <TextView
+        android:id="@+id/tvTower"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/tvItemName"
+        android:layout_below="@+id/tvItemName"
+        android:text="Tower" />
+
+    <TextView
+        android:id="@+id/tvMoCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MO Code"
+        android:layout_below="@+id/tvTower"
+        android:layout_alignStart="@+id/tvTower"
+        android:layout_marginBottom="@dimen/common_5_dp"/>
+
+    <TextView
+        android:id="@+id/tvStatusRequest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tvItemName"
+        android:layout_alignBottom="@+id/tvItemName"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="@dimen/common_10_dp"
+        android:text="Status Request"
+        android:textColor="@color/white"/>
+
+    <TextView
+        android:id="@+id/tvCreatedDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tvMoCode"
+        android:layout_alignBottom="@+id/tvMoCode"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="@dimen/common_10_dp"
+        android:text="Waktu Buat" />
+
+    <TextView
+        android:id="@+id/tvFloor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvItemName"
+        android:layout_marginLeft="@dimen/common_5_dp"
+        android:layout_toEndOf="@+id/tvTower"
+        android:text="Lantai" />
+
+    <TextView
+        android:id="@+id/tvZona"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/tvFloor"
+        android:layout_marginLeft="@dimen/common_5_dp"
+        android:layout_toEndOf="@+id/tvFloor"
+        android:text="Zona" />
+
+</RelativeLayout>

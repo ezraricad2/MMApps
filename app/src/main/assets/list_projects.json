@@ -1,0 +1,92 @@
+[
+	{
+		"Id":"1",
+		"Tower": "Tower B",
+		"Floor": "Floor 15",
+		"Zona": "Zona A",
+		"QtyPercentage": "0 %",
+		"NamaPekerjaan": "Pek. Bekisting Mattfound",
+		"VendorName": "PT. Baja Prima"
+	},
+	{
+		"Id":"2",
+		"Tower": "Tower A",
+		"Floor": "Floor 1",
+		"Zona": "Zona C",
+		"QtyPercentage": "0 %",
+		"NamaPekerjaan": "Pek. Dinding",
+		"VendorName": "PT. Pelangi Makmur"
+	},
+	{
+		"Id":"3",
+		"Tower": "Tower C",
+		"Floor": "Floor 11",
+		"Zona": "Zona C",
+		"QtyPercentage": "0 %",
+		"NamaPekerjaan": "Pek. Core Mattfound",
+		"VendorName": "PT. Pelangi Makmur"
+	},
+	{
+		"Id":"4",
+		"Tower": "Tower D",
+		"Floor": "Floor 12",
+		"Zona": "Zona C",
+		"QtyPercentage": "0 %",
+		"NamaPekerjaan": "Pek. Dinding",
+		"VendorName": "PT. Pelangi Makmur"
+	},
+	{
+		"Id":"5",
+		"Tower": "Tower A",
+		"Floor": "Floor 1",
+		"Zona": "Zona C",
+		"QtyPercentage": "0 %",
+		"NamaPekerjaan": "Pek. Dinding",
+		"VendorName": "PT. Cor Abadi"
+	},
+	{
+		"Id":"6",
+		"Tower": "Tower D",
+		"Floor": "Floor 12",
+		"Zona": "Zona C",
+		"QtyPercentage": "0 %",
+		"NamaPekerjaan": "Pek. Dinding",
+		"VendorName": "PT. Pelangi Makmur"
+	},
+	{
+		"Id":"7",
+		"Tower": "Tower A",
+		"Floor": "Floor 1",
+		"Zona": "Zona C",
+		"QtyPercentage": "0 %",
+		"NamaPekerjaan": "Pek. Dinding",
+		"VendorName": "PT. Pelangi Makmur"
+	},
+	{
+		"Id":"8",
+		"Tower": "Tower D",
+		"Floor": "Floor 12",
+		"Zona": "Zona C",
+		"QtyPercentage": "0 %",
+		"NamaPekerjaan": "Pek. Dinding",
+		"VendorName": "PT. Pelangi Makmur"
+	},
+	{
+		"Id":"9",
+		"Tower": "Tower B",
+		"Floor": "Floor 15",
+		"Zona": "Zona A",
+		"QtyPercentage": "0 %",
+		"NamaPekerjaan": "Pek. Bekisting Mattfound",
+		"VendorName": "PT. Baja Prima"
+	},
+	{
+		"Id":"10",
+		"Tower": "Tower A",
+		"Floor": "Floor 1",
+		"Zona": "Zona C",
+		"QtyPercentage": "0 %",
+		"NamaPekerjaan": "Pek. Dinding",
+		"VendorName": "PT. Pelangi Makmur"
+	}
+]

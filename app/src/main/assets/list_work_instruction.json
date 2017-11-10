@@ -1,0 +1,37 @@
+[
+	{
+		"Id":"1",
+		"WorkName": "1. Persiapan",
+		"WorkInstruction": "Shop Drawing approval tersedia -Lokasi bersih tidak berdeb -Outlet ME terproteksi",
+		"Imm": "true",
+		"FileUploadUrl": "https://cdn-images-1.medium.com/max/1600/1*cFHFZx7CbGbGBXYKHuQqEw.png"
+	},
+	{
+		"Id":"2",
+		"WorkName": "2. Dinding",
+		"WorkInstruction": "Permukaan tidak retak & tidak kopong -Permukaan rata & halus -Umur acian min. 14 hari, atau kelembaban max 15% dengan ",
+		"Imm": "true",
+		"FileUploadUrl": "https://cdn-images-1.medium.com/max/1600/1*cFHFZx7CbGbGBXYKHuQqEw.png"
+	},
+	{
+		"Id":"3",
+		"WorkName": "3. Pengadaan Alat & Material",
+		"WorkInstruction": "Lakban kertas terpasang -Proteksi untuk menampung ceceran cat tersedia. -Alkali & wall filler belum kadaluwarsa, sesuai tipe & approval. -MSDS (Material Safety Data Sheet) sudah diinformasikan ke safety. -Roll, kuas, bak cat & tangga tersedia",
+		"Imm": "false",
+		"FileUploadUrl": ""
+	},
+	{
+		"Id":"4",
+		"WorkName": "4. Alkali Resisting & Wall Filler",
+		"WorkInstruction": "Gumpalan cat di permukaan kaleng dibuang -Wall filler hanya untuk dinding DALAM, dinding LUAR dg skim coat -Dahulukan area sempit & tepi dinding",
+		"Imm": "false",
+		"FileUploadUrl": "https://cdn-images-1.medium.com/max/1600/1*cFHFZx7CbGbGBXYKHuQqEw.png"
+	},
+	{
+		"Id":"5",
+		"WorkName": "5. Alkali",
+		"WorkInstruction": "Alkali tidak diencerkan -Alkali merata -Celah & retak rambut dinding DALAM tertutup wall filler -Celah & retak rambut dinding LUAR tertutup skim coat",
+		"Imm": "false",
+		"FileUploadUrl": ""
+	}
+]
